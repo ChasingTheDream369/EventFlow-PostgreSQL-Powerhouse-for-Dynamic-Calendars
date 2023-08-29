@@ -1,5 +1,3 @@
-# EventFlow-PostgreSQL-Powerhouse-for-Dynamic-Calendars
-
 # EventFlow PostgreSQL Powerhouse for Dynamic Calendars
 
 ![EventFlow Logo](https://your-image-url.com/eventflow-logo.png)
